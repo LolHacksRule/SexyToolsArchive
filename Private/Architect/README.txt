@@ -1,0 +1,1 @@
+These are from Jeff Weinstein's/Architect's proprietary library called JeffLib. Found on the dev forum.

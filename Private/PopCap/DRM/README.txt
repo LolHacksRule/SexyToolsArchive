@@ -1,0 +1,1 @@
+These are from PopCap's proprietary DRM in their version of their framework. Found on the public 1.22 beta framework (I don't have it please contact me if you do).
